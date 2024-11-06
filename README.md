@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @R-16Bob
-- 👀 我的微信公众号是“成前的庭院”
-- 🌱 我目前在大学进行人工智能的研究
+- 👋 Hi, I’m @R-16Bob, a graduate student majoring in artificial intelligence.
+- 👀 I am currently looking for a job.
+- 🌱 I am studying the application development of AI LLMs.
+
 
 <!--
 - 💞️ I’m looking to collaborate on ...
